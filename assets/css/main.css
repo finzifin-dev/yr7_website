@@ -2632,6 +2632,10 @@ input, select, textarea {
 
 /* Section/Article */
 
+	.cancelCentred{
+		text-align: left;
+	}
+
 	section.special, article.special {
 		text-align: center;
 	}

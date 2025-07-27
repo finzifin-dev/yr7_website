@@ -330,7 +330,10 @@ input, select, textarea {
 	hr {
 		border-bottom-color: rgba(255, 255, 255, 0.35);
 	}
-
+/* text colour override */
+	.contrastText{
+		color: #444444;
+	}
 /* Row */
 
 	.row {

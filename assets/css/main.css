@@ -334,6 +334,11 @@ input, select, textarea {
 	.contrastText{
 		color: #444444;
 	}
+	.btcQR{
+		display: block;
+		width: 40%;
+		margin: auto;
+	}
 /* Row */
 
 	.row {
